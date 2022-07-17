@@ -1,0 +1,8 @@
+
+config = '[\
+	{"search_url": "https://pixabay.com/api/?", "random_url": "https://pixabay.com/api/?", "key_name":"key", "key_value": "20744642-0d5b10ea00438a9225e20a69d", "q_name": "q", "image_type_name": "image_type", "kind": "Pixabay"},\
+	{"search_url": "https://api.unsplash.com/search/photos/?count=20&", "random_url": "https://api.unsplash.com/photos/random/?count=20&", "key_name":"client_id", "key_value": "Z6i7uRBdIwjSl3nKq_NC2ILj7uDkU-10tLKxR7HJjPs", "q_name": "query", "image_type_name": "image_type", "kind": "Unsplash"},\
+	{"search_url": "https://api.pexels.com/v1/search?per_page=20&", "random_url": "https://api.pexels.com/v1/curated?per_page=20&", "key_value": "563492ad6f91700001000001e5992d4973d544b88a185c24badbf832", "q_name": "query", "image_type_name": "image_type", "kind": "Pexels"},\
+	{"search_url": "https://www.flickr.com/services/rest/?method=flickr.photos.search&per_page=20&nojsoncallback=1&format=json&extras=url_m&", "random_url": "https://www.flickr.com/services/rest/?method=flickr.photos.getRecent&per_page=20&nojsoncallback=1&format=json&extras=url_m&", "key_name":"api_key", "key_value": "9950947ed7d7f851721516b5115160be", "q_name": "tags", "image_type_name": "image_type", "kind": "Flickr"}, \
+	{"search_url": "https://cors-anywhere.herokuapp.com/https://wallhaven.cc/api/v1/search?", "random_url": "https://cors-anywhere.herokuapp.com/https://wallhaven.cc/api/v1/search?", "key_name":"apikey", "key_value": "woa0vQh25ln61nbCCiboeaf8WciFnOyf", "q_name": "q", "image_type_name": "image_type", "kind": "Wallhaven"}\
+]'
